@@ -1,0 +1,10 @@
+Game is a draw
+Total rounds played: 8
+Winner of Round 1 : Scorpion
+Winner of Round 2 : Sub-Zero
+Winner of Round 3 : Scorpion
+Winner of Round 4 : Sub-Zero
+Winner of Round 5 : Scorpion
+Winner of Round 6 : Sub-Zero
+Winner of Round 7 : Scorpion
+Winner of Round 8 : Sub-Zero
